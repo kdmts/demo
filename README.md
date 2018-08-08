@@ -30,5 +30,6 @@ cd client
 npm install
 npm start
 ```
+7. Open localhost:3000
 
 

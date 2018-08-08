@@ -1,5 +1,5 @@
 # demo
-#### Backend: Spring, Spring Security 
+#### Backend: Spring Boot, Spring Security 
 #### Frontend: React
 
 ##### Steps to setup back and front parts
